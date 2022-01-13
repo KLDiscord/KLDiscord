@@ -1,8 +1,8 @@
-# hey 👋
+# hello, I'm kldiscord. KL_Offical#4153 👋
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/859524525171671080.png">
+  <img src="https://images-ext-1.discordapp.net/external/qHfzdmcowV8-PYeYq9aSHu5yYPmXexfMRhAXUZb7AFU/%3Fsize%3D128%26quality%3Dlossless/https/cdn.discordapp.com/emojis/750330104655380552.gif">
 </p><br/><br/><br/>
 
 <h1 align="center">LANGUAGE</h1>
@@ -10,7 +10,6 @@
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 </p>
-<center><p>I'm usally using Python</p></center>
 
 <h1 align="center">FRAMEWORK</h1>
 
