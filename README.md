@@ -8,9 +8,9 @@
 <h1 align="center">LANGUAGE</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 </p>
-<p>I'm usally using Python</p>
+<center><p>I'm usally using Python</p></center>
 
 <h1 align="center">FRAMEWORK</h1>
 
