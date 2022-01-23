@@ -1,4 +1,5 @@
-# hello, I'm kldiscord. KL_Offical#4153 👋
+# hello, I'm kldiscord! Nice to meet ya! 👋
+# I'm koraen, and my discord tag is KL_Offical#4153
 
 
 <p align="center">
