@@ -1,5 +1,5 @@
 # hello, I'm kldiscord! Nice to meet ya! 👋
-# I'm koraen, and my discord tag is 절믄KL#1111 (Copy and paste hehe)
+# I'm koraen, and my discord tag is KL#7815 (Copy and paste hehe)
 
 
 <p align="center">
